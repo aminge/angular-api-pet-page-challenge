@@ -1,0 +1,33 @@
+body {
+    background-color: lavenderblush;
+    width: 80%;
+    margin: auto;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav > li {
+    display: inline-block;
+    padding: 8px;
+    background-color: darkorchid;
+}
+
+a:link {
+    text-decoration: none;
+    color: lavenderblush;
+    font-family: 'Oswald', sans-serif;
+}
+
+/*I want to center these*/
+
+/*h1.head {*/
+    /*margin: auto;*/
+/*}*/
+
+/*ul.nav {*/
+    /*margin: auto;*/
+/*}*/
